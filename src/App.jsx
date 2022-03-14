@@ -17,12 +17,13 @@ function App() {
         change
       </button>
       {/* Show component based on state */}
-    
+         
+         {type? }
          <Rentals />
     
          <AddHouse />
       
-    )
+    
      
       <br />
     </div>
