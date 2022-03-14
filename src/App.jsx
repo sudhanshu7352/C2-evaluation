@@ -18,7 +18,7 @@ function App() {
       </button>
       {/* Show component based on state */}
          
-         {type? }
+         {/* {type? } */}
          <Rentals />
     
          <AddHouse />
